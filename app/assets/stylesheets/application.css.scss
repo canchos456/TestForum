@@ -69,7 +69,7 @@
  	.post {
  		margin: 1em 0;
  		padding: 1em 0;
- 		border-bottom: 1px solid #D1d1d1;
+ 		border-bottom: 1px solid #d2d6dc;
  		.title {
  			margin: 0;
  			a {
@@ -86,4 +86,48 @@
  		}
  	}
  }
+
+ #post_content {
+ 	background: white;
+ 	padding: 2em 5%;
+ 	border-radius: .5em;
+ 	h1 {
+ 		font-weight: 100;
+ 		font-size: 2em;
+ 		color: #397CAC;
+ 	}
+ 	p {
+ 		color: #292929;
+ 		font-size: 0.9rem;
+ 		line-height: 160%;
+    	padding-bottom: 1em;
+ 	}
+ 	#buttons {
+ 		a {
+ 		    padding: .5em 1em;
+    		border-radius: 0.2em;
+    		background: #397CAC;
+    		color: white;
+    		text-decoration: none;
+ 		}
+ 	}
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
